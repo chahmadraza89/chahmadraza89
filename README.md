@@ -2,11 +2,11 @@
 
 # 🚀 Hi, I'm Ahmad Raza 👋
 
-![FLUTTER](https://img.shields.io/badge/FLUTTER%20%26%20DART-blueviolet?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI%20INTEGRATION-00b4d8?style=for-the-badge)
-![AVAILABLE](https://img.shields.io/badge/OPEN%20TO%20WORK-ff6600?style=for-the-badge)
+![MOBILE](https://img.shields.io/badge/MOBILE-FLUTTER%20%26%20DART-blueviolet?style=for-the-badge&labelColor=1c2333)
+![AI](https://img.shields.io/badge/AI-LLMs%20%26%20ON%20DEVICE%20ML-00b4d8?style=for-the-badge&labelColor=1c2333)
+![BUILD](https://img.shields.io/badge/BUILD-AI%20POWERED%20APPS-ff6600?style=for-the-badge&labelColor=1c2333)
 
-**Currently open to freelance and full-time Flutter / AI roles** — remote friendly
+**Currently open to freelance and full-time Flutter / AI engineering roles** — remote friendly
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm an **Application Developer** building high-performance cross-platform mobile apps with **Flutter** and wiring intelligent **AI-powered** features into real products. I work across the whole stack of a mobile product — architecture, UI, backend integration, and store release.
+I'm an **Application Developer & AI Engineer** building high-performance cross-platform mobile apps with **Flutter** and wiring intelligent **AI-powered** features into real products. I work across the whole stack of a mobile product — architecture, UI, model integration, backend, and store release.
 
 - 📲 **Cross-platform apps** — Flutter architecture through to App Store and Play Store deployment
 - 🧠 **AI features** — chatbots, recommendation engines, and on-device ML models
