@@ -21,6 +21,8 @@ I'm an **Application Developer** building high-performance cross-platform mobile
 - 🔗 **Integrations** — REST APIs, Firebase, and third-party intelligent backends
 - 🤝 Open to collaborating on **Flutter projects** and **AI-based apps**
 
+---
+
 ## 🛠 Tech Stack
 
 **Mobile**
@@ -46,15 +48,15 @@ I'm an **Application Developer** building high-performance cross-platform mobile
 <table width="100%" border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td width="50%" align="center" valign="center">
-      <img width="100%" alt="Ahmad Raza's GitHub stats: commits, pull requests, and contribution rank" src="https://github-readme-stats.vercel.app/api?username=chahmadraza89&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&show=reviews,prs_merged,prs_merged_percentage" />
+      <img width="100%" alt="Ahmad Raza's GitHub stats: commits, pull requests, issues, and stars" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chahmadraza89&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
     </td>
     <td width="50%" align="center">
-      <img width="100%" alt="Most used programming languages, led by Dart and Python" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahmadraza89&layout=donut&hide_border=true&langs_count=6&bg_color=00000000&title_color=58a6ff&text_color=8b949e" />
+      <img width="100%" alt="Most used programming languages, led by Dart and Python" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chahmadraza89&theme=transparent&title_color=58a6ff&text_color=8b949e" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img width="100%" alt="Contribution streak: total contributions, current streak, and longest streak" src="https://streak-stats.demolab.com/?user=chahmadraza89&hide_border=true&background=00000000&ring=58a6ff&fire=ff6600&currStreakLabel=58a6ff&currStreakNum=8b949e&sideLabels=8b949e&sideNums=8b949e&dates=8b949e&stroke=8b949e" />
+      <img width="100%" alt="Contribution streak: total contributions, current streak, and longest streak" src="https://streak-stats.demolab.com/?user=chahmadraza89&hide_border=true&background=00000000&ring=8b5cf6&fire=e879f9&currStreakNum=c4b5fd&currStreakLabel=8b5cf6&sideNums=8b949e&sideLabels=8b949e&dates=6e7681&stroke=8b949e" />
     </td>
   </tr>
 </table>
