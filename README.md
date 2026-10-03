@@ -48,11 +48,11 @@ I'm an **Application Developer & AI Engineer** building high-performance cross-p
 <table width="100%" border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td width="50%" align="center" valign="center">
-      <img width="100%" alt="Ahmad Raza's GitHub stats: commits, pull requests, issues, and stars" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chahmadraza89&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" alt="Most used programming languages, led by Dart and Python" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chahmadraza89&theme=transparent&title_color=58a6ff&text_color=8b949e" />
-    </td>
+        <img width="100%" alt="Ahmad Raza's GitHub stats: commits, pull requests, issues, and stars" src="https://raw.githubusercontent.com/chahmadraza89/chahmadraza89/main/profile-cards/stats.svg" />
+      </td>
+      <td width="50%" align="center">
+        <img width="100%" alt="Top languages by commit" src="https://raw.githubusercontent.com/chahmadraza89/chahmadraza89/main/profile-cards/top-langs.svg" />
+      </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
