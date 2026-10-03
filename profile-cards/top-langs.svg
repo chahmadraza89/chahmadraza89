@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="195" viewBox="0 0 340 195" fill="none" role="img" aria-labelledby="langs-title">
+<style>text{font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif}.t{font-size:18px;font-weight:600;fill:#58a6ff}.l{font-size:13px;fill:#8b949e}.v{font-size:13px;font-weight:600;fill:#8b949e}</style>
+<title id="langs-title">Top languages by commit</title>
+<text x="25" y="34" class="t">Top Languages by Commit</text>
+<rect x="25" y="56" width="12" height="12" fill="#00B4AB"/>
+<text x="43" y="67" class="l">Dart</text>
+<rect x="25" y="80" width="12" height="12" fill="#3178c6"/>
+<text x="43" y="91" class="l">TypeScript</text>
+<rect x="25" y="104" width="12" height="12" fill="#DA5B0B"/>
+<text x="43" y="115" class="l">Jupyter Notebook</text>
+<rect x="25" y="128" width="12" height="12" fill="#3572A5"/>
+<text x="43" y="139" class="l">Python</text>
+<rect x="25" y="152" width="12" height="12" fill="#f34b7d"/>
+<text x="43" y="163" class="l">C++</text>
+<circle cx="262" cy="112" r="46" stroke="#00B4AB" stroke-width="22" stroke-dasharray="141.67 147.36" stroke-dashoffset="-0.00" transform="rotate(-90 262 112)"/>
+<circle cx="262" cy="112" r="46" stroke="#3178c6" stroke-width="22" stroke-dasharray="114.66 174.36" stroke-dashoffset="-141.67" transform="rotate(-90 262 112)"/>
+<circle cx="262" cy="112" r="46" stroke="#DA5B0B" stroke-width="22" stroke-dasharray="20.85 268.18" stroke-dashoffset="-256.33" transform="rotate(-90 262 112)"/>
+<circle cx="262" cy="112" r="46" stroke="#3572A5" stroke-width="22" stroke-dasharray="8.53 280.50" stroke-dashoffset="-277.18" transform="rotate(-90 262 112)"/>
+<circle cx="262" cy="112" r="46" stroke="#f34b7d" stroke-width="22" stroke-dasharray="3.32 285.71" stroke-dashoffset="-285.71" transform="rotate(-90 262 112)"/>
+</svg>

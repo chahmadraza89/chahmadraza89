@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="195" viewBox="0 0 340 195" fill="none" role="img" aria-labelledby="stats-title">
+<style>text{font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif}.t{font-size:18px;font-weight:600;fill:#58a6ff}.l{font-size:13px;fill:#8b949e}.v{font-size:13px;font-weight:600;fill:#8b949e}</style>
+<title id="stats-title">GitHub stats</title>
+<text x="25" y="34" class="t">Stats</text>
+<g transform="translate(25 52)" stroke="#58a6ff" stroke-width="1.4" color="#58a6ff"><path d="M8 1.5l1.9 3.9 4.3.6-3.1 3 .7 4.3L8 11.3l-3.8 2 .7-4.3-3.1-3 4.3-.6z" stroke-linejoin="round"/></g>
+<text x="48" y="64" class="l">Total Stars:</text>
+<text x="152" y="64" class="v">24</text>
+<g transform="translate(25 78)" stroke="#58a6ff" stroke-width="1.4" color="#58a6ff"><circle cx="8" cy="8" r="3"/><path d="M1 8h4M11 8h4"/></g>
+<text x="48" y="90" class="l">Total Commits:</text>
+<text x="152" y="90" class="v">617</text>
+<g transform="translate(25 104)" stroke="#58a6ff" stroke-width="1.4" color="#58a6ff"><circle cx="4" cy="3.5" r="1.6"/><circle cx="4" cy="12.5" r="1.6"/><circle cx="12" cy="12.5" r="1.6"/><path d="M4 5.1v5.8M12 10.9V6a2 2 0 00-2-2H8.5M10 2.2L8.3 4 10 5.8" stroke-linejoin="round" stroke-linecap="round"/></g>
+<text x="48" y="116" class="l">Total PRs:</text>
+<text x="152" y="116" class="v">46</text>
+<g transform="translate(25 130)" stroke="#58a6ff" stroke-width="1.4" color="#58a6ff"><circle cx="8" cy="8" r="6.2"/><path d="M8 4.6v4" stroke-linecap="round"/><circle cx="8" cy="11.1" r=".6" fill="currentColor" stroke="none"/></g>
+<text x="48" y="142" class="l">Total Issues:</text>
+<text x="152" y="142" class="v">12</text>
+<g transform="translate(25 156)" stroke="#58a6ff" stroke-width="1.4" color="#58a6ff"><path d="M3.5 12.5V2.5a1 1 0 011-1h8v10h-8a1 1 0 00-1 1 1 1 0 001 1h8M10 1.5v5l-1.5-1.2L7 6.5v-5" stroke-linejoin="round"/></g>
+<text x="48" y="168" class="l">Contributed to:</text>
+<text x="152" y="168" class="v">6</text>
+<g transform="translate(230 55) scale(6)"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z" fill="#58a6ff"/></g>
+</svg>
