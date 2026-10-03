@@ -186,8 +186,8 @@ def stats_svg(d):
 def langs_svg(d):
     langs = d["langs"][:MAX_LANGS]
     total = sum(c for _, c, _ in langs) or 1
-    out = ['<title id="langs-title">Top languages by commit</title>',
-           '<text x="25" y="34" class="t">Top Languages by Commit</text>']
+    out = ['<title id="langs-title">Top Languages</title>',
+           '<text x="25" y="34" class="t">Top Languages</text>']
     # legend
     for i, (name, _, color) in enumerate(langs):
         y = 56 + i * 24
