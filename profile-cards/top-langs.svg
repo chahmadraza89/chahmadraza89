@@ -12,9 +12,9 @@
 <text x="43" y="139" class="l">Python</text>
 <rect x="25" y="152" width="12" height="12" fill="#f34b7d"/>
 <text x="43" y="163" class="l">C++</text>
-<circle cx="262" cy="112" r="46" stroke="#3178c6" stroke-width="22" stroke-dasharray="131.76 157.26" stroke-dashoffset="-0.00" transform="rotate(-90 262 112)"/>
-<circle cx="262" cy="112" r="46" stroke="#00B4AB" stroke-width="22" stroke-dasharray="129.44 159.58" stroke-dashoffset="-131.76" transform="rotate(-90 262 112)"/>
-<circle cx="262" cy="112" r="46" stroke="#DA5B0B" stroke-width="22" stroke-dasharray="17.00 272.02" stroke-dashoffset="-261.21" transform="rotate(-90 262 112)"/>
-<circle cx="262" cy="112" r="46" stroke="#3572A5" stroke-width="22" stroke-dasharray="8.11 280.91" stroke-dashoffset="-278.21" transform="rotate(-90 262 112)"/>
-<circle cx="262" cy="112" r="46" stroke="#f34b7d" stroke-width="22" stroke-dasharray="2.70 286.32" stroke-dashoffset="-286.32" transform="rotate(-90 262 112)"/>
+<circle cx="262" cy="112" r="46" stroke="#3178c6" stroke-width="22" stroke-dasharray="131.06 157.97" stroke-dashoffset="-0.00" transform="rotate(-90 262 112)"/>
+<circle cx="262" cy="112" r="46" stroke="#00B4AB" stroke-width="22" stroke-dasharray="129.91 159.12" stroke-dashoffset="-131.06" transform="rotate(-90 262 112)"/>
+<circle cx="262" cy="112" r="46" stroke="#DA5B0B" stroke-width="22" stroke-dasharray="17.30 271.73" stroke-dashoffset="-260.97" transform="rotate(-90 262 112)"/>
+<circle cx="262" cy="112" r="46" stroke="#3572A5" stroke-width="22" stroke-dasharray="8.07 280.96" stroke-dashoffset="-278.26" transform="rotate(-90 262 112)"/>
+<circle cx="262" cy="112" r="46" stroke="#f34b7d" stroke-width="22" stroke-dasharray="2.69 286.34" stroke-dashoffset="-286.34" transform="rotate(-90 262 112)"/>
 </svg>
