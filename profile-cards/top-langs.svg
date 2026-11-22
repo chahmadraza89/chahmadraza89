@@ -2,19 +2,19 @@
 <style>text{font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif}.t{font-size:18px;font-weight:600;fill:#58a6ff}.l{font-size:13px;fill:#8b949e}.v{font-size:13px;font-weight:600;fill:#8b949e}</style>
 <title id="langs-title">Top Languages</title>
 <text x="25" y="34" class="t">Top Languages</text>
-<rect x="25" y="56" width="12" height="12" fill="#00B4AB"/>
-<text x="43" y="67" class="l">Dart</text>
-<rect x="25" y="80" width="12" height="12" fill="#3178c6"/>
-<text x="43" y="91" class="l">TypeScript</text>
+<rect x="25" y="56" width="12" height="12" fill="#3178c6"/>
+<text x="43" y="67" class="l">TypeScript</text>
+<rect x="25" y="80" width="12" height="12" fill="#00B4AB"/>
+<text x="43" y="91" class="l">Dart</text>
 <rect x="25" y="104" width="12" height="12" fill="#DA5B0B"/>
 <text x="43" y="115" class="l">Jupyter Notebook</text>
 <rect x="25" y="128" width="12" height="12" fill="#3572A5"/>
 <text x="43" y="139" class="l">Python</text>
 <rect x="25" y="152" width="12" height="12" fill="#f34b7d"/>
 <text x="43" y="163" class="l">C++</text>
-<circle cx="262" cy="112" r="46" stroke="#00B4AB" stroke-width="22" stroke-dasharray="138.98 150.05" stroke-dashoffset="-0.00" transform="rotate(-90 262 112)"/>
-<circle cx="262" cy="112" r="46" stroke="#3178c6" stroke-width="22" stroke-dasharray="126.37 162.65" stroke-dashoffset="-138.98" transform="rotate(-90 262 112)"/>
-<circle cx="262" cy="112" r="46" stroke="#DA5B0B" stroke-width="22" stroke-dasharray="14.76 274.27" stroke-dashoffset="-265.35" transform="rotate(-90 262 112)"/>
-<circle cx="262" cy="112" r="46" stroke="#3572A5" stroke-width="22" stroke-dasharray="6.76 282.26" stroke-dashoffset="-280.11" transform="rotate(-90 262 112)"/>
-<circle cx="262" cy="112" r="46" stroke="#f34b7d" stroke-width="22" stroke-dasharray="2.15 286.87" stroke-dashoffset="-286.87" transform="rotate(-90 262 112)"/>
+<circle cx="262" cy="112" r="46" stroke="#3178c6" stroke-width="22" stroke-dasharray="133.32 155.70" stroke-dashoffset="-0.00" transform="rotate(-90 262 112)"/>
+<circle cx="262" cy="112" r="46" stroke="#00B4AB" stroke-width="22" stroke-dasharray="130.73 158.30" stroke-dashoffset="-133.32" transform="rotate(-90 262 112)"/>
+<circle cx="262" cy="112" r="46" stroke="#DA5B0B" stroke-width="22" stroke-dasharray="15.57 273.46" stroke-dashoffset="-264.05" transform="rotate(-90 262 112)"/>
+<circle cx="262" cy="112" r="46" stroke="#3572A5" stroke-width="22" stroke-dasharray="7.14 281.89" stroke-dashoffset="-279.62" transform="rotate(-90 262 112)"/>
+<circle cx="262" cy="112" r="46" stroke="#f34b7d" stroke-width="22" stroke-dasharray="2.27 286.76" stroke-dashoffset="-286.76" transform="rotate(-90 262 112)"/>
 </svg>
